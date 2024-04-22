@@ -1,6 +1,8 @@
 # cdist
 counterfactual distribution estimation and decomposition of group differences Use cdist With STATA 18
 
+https://www.youtube.com/watch?v=47OwkQgY12s
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
